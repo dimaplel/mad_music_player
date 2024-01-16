@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MAD Music Player</string>
+    <string name="defaultSong">Song</string>
+    <string name="defaultArtist">Artist</string>
+    <string name="defaultTitle">Song Title</string>
+    <string name="defaultAlbum">Album</string>
+    <string name="randomSongButtonText">SELECT RANDOM SONG</string>
+    <string name="playPauseButtonText">Play/Pause</string>
+</resources>
